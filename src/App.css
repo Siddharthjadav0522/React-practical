@@ -1,0 +1,19 @@
+.navbar-first{
+  padding:14px 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo a{
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+.list{
+  display: flex;
+  list-style: none;
+  gap:40px;
+
+}
+.list li{
+  font-size: 18px;
+}
